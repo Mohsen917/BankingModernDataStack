@@ -38,7 +38,9 @@ _From PostgreSQL → Kafka (CDC) → MinIO → Snowflake → dbt → Power BI_
 ## 📐 Architecture
 
 <div align="center">
-  <img src="./Screenshot 2025-11-30 104348.png" alt="Modern Data Stack Architecture" width="100%"/>
+  <img src="https://github.com/user-attachments/assets/7b3f0245-dbe7-406a-ac2f-4c9560494bd4" alt="Modern Data Stack Architecture" width="100%"/>
+  <br/>
+  <sub>🐳 All services containerized with Docker</sub>
 </div>
 
 ### 📊 Data Flow
